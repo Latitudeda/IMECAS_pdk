@@ -1,3 +1,9 @@
-Arrayed Waveguide Grating (AWG)
-==================================
+Arrayed Waveguide Gratings (AWG)
+=======================================
+
+AWG200G_C_TE_8ch_WG450
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+AWG400G_C_TE_8ch_WG450
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
