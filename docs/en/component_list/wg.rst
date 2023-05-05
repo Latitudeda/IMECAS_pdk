@@ -3,21 +3,26 @@ Waveguides
 
 ChannelWG_C_WG450
 **********************
-1
+.. image:: ../images/ChannelWG_C_WG450.png
+
 
 
 ChannelWG_O_WG380
 **********************
-1
+.. image:: ../images/ChannelWG_O_WG380.png
+
 
 RIB_C_TE_SE_650
 **********************
-1
+.. image:: ../images/RIB_C_TE_SE_650.png
+
 
 RIB_C_TE_SEFE_450_1000
 ***********************
-1
+.. image:: ../images/RIB_C_TE_SEFE_450_1000.png
+
 
 RIB_O_TE_SE_580
 **********************
-1
+.. image:: ../images/RIB_O_TE_SE_580.png
+
