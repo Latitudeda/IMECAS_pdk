@@ -13,7 +13,7 @@ MMI1X2_O_WG380
 
 MMI2X2_C_SE_WG450
 ******************
-.. image:: ../images/tesyyyy.pdf
+
 
 
 
