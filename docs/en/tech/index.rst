@@ -17,7 +17,6 @@ The technology in IMECAS pdk holds a number of common configuration files dealin
    layers
    metal
    metrics
-   resource
    terminal
    waveguide_factory
    wg
