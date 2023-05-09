@@ -15,7 +15,7 @@ There a two different waveguides in IMECAS pdk which we defined as follows:
 
     .. image:: ../images/rib.png
 
-    # ``Rib.C_SEFE``
+    #. ``Rib.C_SEFE``
 
     .. image:: ../images/rib_sefe.png
 
