@@ -1,6 +1,6 @@
 wg.py
 ==========
-There a two different waveguides in IMECAS pdk which we defined as follows:
+There a two different waveguides in IMECAS pdk which are defined as follows:
 
 #. ``Channel``
     #. ``Channel.C``
