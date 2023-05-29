@@ -5,6 +5,7 @@ IMECAS documentation
    :hidden:
 
 
+   intro/index
    tech/index
    component_list/index
 
