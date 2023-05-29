@@ -8,6 +8,7 @@ author = 'latitudeda.com'
 
 release = '0.0'
 version = '0.0.1'
+formats: all
 
 
 # -- General configuration
