@@ -6,6 +6,7 @@ IMECAS documentation
 
 
    intro/index
+   structure/index
    tech/index
    component_list/index
 
